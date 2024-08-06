@@ -27,7 +27,7 @@ student.
 
 This repository contains two main components developed on the Ubuntu operating system:
 1. 'Project' Folder: This folder includes the code for a web application developed using the MERN stack (MongoDB, Express.js, React, and Node.js).
-2. ModelEvaluation.ipynb: A Jupyter Notebook that focuses on the evaluation and testing of an Automatic Speech Recognition (ASR) model using the KALDI toolkit and the TIMIT dataset.
+2. 'ModelEvaluation.ipynb' Notebook: A Jupyter Notebook that focuses on the evaluation and testing of an Automatic Speech Recognition (ASR) model using the KALDI toolkit and the TIMIT dataset.
 
 
 ## Installation
@@ -69,6 +69,18 @@ The application should now be running at `http://localhost:3000`.
 
 
 ## Result:
+Use case digarm:
+![usecase!](./Images/UseCaseDiagram.jpg)
+
+Here are some screenshots of the website:
+* Login page:
+![Login!](./Images/Login.jpg)
+
+* Home page:
+![Login!](./Images/Login.jpg)
+
+
+
 
 
 
