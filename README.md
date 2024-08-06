@@ -70,13 +70,16 @@ The application should now be running at `http://localhost:3000`.
 
 ## Result:
 Use case digarm:
+
 ![usecase!](./Images/UseCaseDiagram.jpg)
 
 Here are some screenshots of the website:
 * Login page:
+
 ![Login!](./Images/Login.jpg)
 
 * Home page:
+
 ![Login!](./Images/Login.jpg)
 
 
