@@ -2,6 +2,7 @@
 
 ## Description
 ![LOGO!](Avalon-University-Logo-PNG-Size-Small-modified.png)
+
 This project encapsulates the development and evaluation of an Academic Support System
 designed to improve accessibility for students, particularly those with disabilities and
 international students. The system leverages advanced technologies, including Artificial
@@ -19,8 +20,24 @@ platform supports the ASR tool and simplifies access to educational materials,
 demonstrating a potentially significant impact on educational outcomes across a diverse
 student.
 
+This repository contains two main components developed on the Ubuntu operating system:
+![Ubuntu](https://icons.iconarchive.com/icons/martz90/circle/256/ubuntu-icon.png)
+1. 'Project' Folder: This folder includes the code for a web application developed using the MERN stack (MongoDB, Express.js, React, and Node.js).
+2. ModelEvaluation.ipynb: A Jupyter Notebook that focuses on the evaluation and testing of an Automatic Speech Recognition (ASR) model using the KALDI toolkit and the TIMIT dataset.
 
-## 
+
+## Table of Content
+- 
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+
+
+
+
 # Acknowledgements
 I extend my heartfelt gratitude to my supervisors, Dr. Wei Li and Dr. Kimia Aksir, whose expertise and insightful guidance were instrumental in the conception and execution of this project. Their unwavering support and constructive feedback throughout this journey have been invaluable.
 I am also immensely grateful to Dr. Charles Clarke, the responsible for the Final Year Project module, whose diligent coordination and dedication to the academic and professional development of students have greatly enhanced my research experience.
