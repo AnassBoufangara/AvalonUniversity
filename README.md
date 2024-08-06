@@ -1,8 +1,13 @@
 # Avalon University
-
-## Description
 ![LOGO!](Avalon-University-Logo-PNG-Size-Small-modified.png)
 
+## Table of Content
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Acknowledgements](#acknowledgements)
+
+## Description
 This project encapsulates the development and evaluation of an Academic Support System
 designed to improve accessibility for students, particularly those with disabilities and
 international students. The system leverages advanced technologies, including Artificial
@@ -21,20 +26,49 @@ demonstrating a potentially significant impact on educational outcomes across a 
 student.
 
 This repository contains two main components developed on the Ubuntu operating system:
-![Ubuntu](https://icons.iconarchive.com/icons/martz90/circle/256/ubuntu-icon.png)
 1. 'Project' Folder: This folder includes the code for a web application developed using the MERN stack (MongoDB, Express.js, React, and Node.js).
 2. ModelEvaluation.ipynb: A Jupyter Notebook that focuses on the evaluation and testing of an Automatic Speech Recognition (ASR) model using the KALDI toolkit and the TIMIT dataset.
 
 
-## Table of Content
-- 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+## Installation
+To install and run the MERN stack application, follow these steps:
+1. Clone the repository:
+```
+$ git clone https://github.com/AnassBoufangara/AvalonUniversity.git
+$ cd AvalonUniversity
+```
+
+2. Install the server dependencies:
+```
+$ cd BackEnd
+$ npm install
+```
+
+3. Install the client dependencies:
+```
+$ cd ../FrontEnd 
+$ npm install
+```
 
 
+## Usage:
+To start the application, run the following commands:
+1. Start the backend server:
+```
+$ cd BackEnd
+$ npm start
+```
+
+2. Start the frontend server:
+```
+$ cd ../FrontEnd
+$ npm start
+```
+
+The application should now be running at `http://localhost:3000`.
+
+
+## Result:
 
 
 
