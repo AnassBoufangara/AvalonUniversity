@@ -5,6 +5,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Result](#result)
 - [Acknowledgements](#acknowledgements)
 
 ## Description
@@ -78,10 +79,36 @@ Here are some screenshots of the website:
 
 ![Login!](./Images/Login.jpg)
 
-* Home page:
+* Welcome page:
 
-![Login!](./Images/Login.jpg)
+![welcome!](./Images/WelcomePage.jpg)
 
+* Home Page:
+
+![Home!](./Images/CoursesPage.jpg)
+
+* Includes support for dark mode:
+
+![Home!](./Images/CoursesPage2.jpg)
+
+* Lecture page:
+
+![Home!](./Images/Lecture.jpg)
+
+* 'Automated Transcription' Component:
+The image shows the interface of Avalon University's online learning platform, specifically highlighting the "Automated Transcription" feature adjacent to a selected video course titled "C# Tutorial - Full Course for Beginners." This section is designed to enhance the learning experience by providing real-time transcription of video lectures. As the video plays, the speech content is automatically converted into text within the "Automated Transcription" box, allowing students to follow along with a written version of the lecture. This text can be edited and saved as notes directly from the interface, facilitating efficient study and review. This feature is particularly beneficial for students who may prefer reading to auditory learning or those who require written materials to complement their learning process. 
+
+![Home!](./Images/AT.jpg)
+
+* 'Real-Time Speech Recognition' Component:
+In the depicted interface of the Avalon University platform, the 'Real-Time Speech Recognition' feature is a key component designed to enhance the accessibility and usability of educational content for students. This functionality is particularly beneficial for auditory learners and those who may face challenges in following verbal instructions or lectures due to disabilities or language barriers. When a user selects "Start Recording," the system initiates an automated transcription process that converts spoken words from the video into written text, displaying the results in real time within the adjacent text box. This allows students to interactively engage with the lecture content, facilitating immediate comprehension and note-taking
+
+![Home!](./Images/RTSR.jpg)
+
+* Notes section:
+In the interface of Avalon University's educational platform, the "Notes" section serves a dual functionality, the notes saved as two different types: "Video" and "Speech". These categories represent the origins of the transcription. "Video" notes are generated through the "Automated Transcription" feature, where the textual output is derived from pre-recorded video lectures. This enables students to access lecture content in text format that is automatically transcribed as the video plays. Conversely, "Speech" notes originate from the "Real-Time Speech Recognition" feature, designed to convert spoken words into text during live sessions or streaming lectures. This real-time transcription aids students in capturing verbal communications instantly, thus enhancing note-taking efficiency and accuracy. The integration of these two types of transcription processes within the platform significantly enriches the learning tools available to students, catering to diverse learning preferences and needs.
+
+![Home!](./Images/Notes.jpg)
 
 
 
