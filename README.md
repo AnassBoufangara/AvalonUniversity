@@ -1,5 +1,4 @@
-# Avalon University (Artificial
-Intelligence (AI) and Natural Language Processing (NLP)
+# Avalon University (Artificial Intelligence (AI) and Natural Language Processing (NLP)
 ![LOGO!](Avalon-University-Logo-PNG-Size-Small-modified.png)
 
 ## Table of Content
